@@ -17,14 +17,14 @@ Here are the API endpoints:
 
 ## Usage
 
-### Run in Frontend
+### Run Frontend
 
 ```
 $ npm install
 $ npm run dev
 ```
 
-### Run in Backend
+### Run Backend
 
 ```
 $ cd server
